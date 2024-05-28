@@ -1,4 +1,4 @@
-public class ejercicio1{
+public class P1_ejercicio1{
     public static void main(String[] args){
         int valor = 25;
         double precio = 255;

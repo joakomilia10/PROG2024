@@ -1,4 +1,4 @@
-public class ejercicio8 {
+public class P1_ejercicio8 {
     public static void main(String[] args){
     boolean tru = true;
     boolean fal = false;

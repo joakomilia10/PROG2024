@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class ejercicio11 {
+public class P1_ejercicio11 {
     public static void main(String[] args){
         int numero ;        
 

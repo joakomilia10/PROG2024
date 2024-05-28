@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 
-public class ejercicio3 {
+public class P1_ejercicio3 {
     public static void main(String[] args){
         int valor ; 
         try {

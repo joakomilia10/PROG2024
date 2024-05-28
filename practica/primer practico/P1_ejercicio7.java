@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class ejercicio7 {
+public class P1_ejercicio7 {
     public static void main(String[] args){
         int primer_numero;
         int segundo_numero;

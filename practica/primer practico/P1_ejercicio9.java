@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class ejercicio9 {
+public class P1_ejercicio9 {
     public static void main(String[] args){
         int numero_entrada ;
         int primer_divisor = 2;

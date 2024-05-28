@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class ejercicio6 {
+public class P1_ejercicio6 {
     public static void main(String[] args){
         String  factura_tipo    ;
         int     numero_factura  ;

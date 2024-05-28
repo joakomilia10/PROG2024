@@ -1,4 +1,4 @@
-public class ejercicio2 {
+public class P1_ejercicio2 {
     public static void main(String[] args){
         double valor ;
         double siempre = 1.0;

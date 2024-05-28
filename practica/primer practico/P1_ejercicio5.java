@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class ejercicio5 {
+public class P1_ejercicio5 {
     public static void main(String[] args){
         String   nombre    ;
         int      edad      ;
