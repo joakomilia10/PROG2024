@@ -28,8 +28,9 @@ public class P6_ejercicio5 {
     public static void mostrar_matriz(int[][] arr){
         for(int fila = 0 ; fila < MAXFILAS ; fila++){
             for(int columna = 0 ; columna<MAXCOLUMNAS ; columna++){
-                System.out.println(arr[fila][columna]);
+                System.out.println(arr[fila][columna] + "|");
             }
+            System.out.println();
         }
     }
 
