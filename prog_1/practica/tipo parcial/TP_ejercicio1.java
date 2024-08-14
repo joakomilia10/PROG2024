@@ -1,5 +1,5 @@
 
-public class ejercicio1 {
+public class TP_ejercicio1 {
     public static final int MAX = 20;
     public static final int SEPARADOR = 0;
     public static void main(String[] args){
